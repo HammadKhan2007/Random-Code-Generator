@@ -1,0 +1,15 @@
+/* App.css (ya index.css) */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif; /* Font match kar diya */
+  background-color: #161625; /* Poori site k liye dark background */
+  color: #f0f0f0;
+}
+
+.App {
+  display: flex;
+  justify-content: center; /* Horizontally center karta hai */
+  align-items: center;     /* Vertically center karta hai */
+  min-height: 100vh;       /* Poori screen ki height le leta hai */
+}
+    
